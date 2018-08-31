@@ -1,0 +1,1 @@
+kubectl kubectl apply -f newpods.yaml

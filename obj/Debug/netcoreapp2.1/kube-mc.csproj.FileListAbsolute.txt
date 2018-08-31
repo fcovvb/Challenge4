@@ -1,0 +1,11 @@
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\bin\Debug\netcoreapp2.1\kube-mc.deps.json
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\bin\Debug\netcoreapp2.1\kube-mc.runtimeconfig.json
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\bin\Debug\netcoreapp2.1\kube-mc.runtimeconfig.dev.json
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\bin\Debug\netcoreapp2.1\kube-mc.dll
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\bin\Debug\netcoreapp2.1\kube-mc.pdb
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.csprojAssemblyReference.cache
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.csproj.CoreCompileInputs.cache
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.AssemblyInfoInputs.cache
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.AssemblyInfo.cs
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.dll
+C:\Users\t-frvale\Desktop\mc-ask-dotnet\kube-mc\obj\Debug\netcoreapp2.1\kube-mc.pdb

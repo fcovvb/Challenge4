@@ -1,0 +1,36 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: mc-srv-deployment
+  labels:
+    name: mc-srv
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name:  mc-srv
+    spec:
+      containers:
+      - image: openhack/minecraft-server:2.0
+        name: mc-srv
+        resources:
+          requests:
+            cpu: "0.5"
+            memory: "2Gi"
+        volumeMounts:
+        - mountPath: "/data"
+          name: volume
+        env:
+        - name: "EULA"
+          value: "TRUE"
+        ports:
+        - containerPort:  25565
+        - containerPort:  25575
+          name: mc-srv
+        imagePullPolicy: Always
+      restartPolicy: Always
+      volumes:
+      - name: volume
+        persistentVolumeClaim:
+          claimName: azurefile
